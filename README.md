@@ -1,2 +1,2 @@
 # ED2
- Projeto da disciplina Estrutura de Dados II
+ Projeto da disciplina Algoritmos e Estrutura de Dados II
