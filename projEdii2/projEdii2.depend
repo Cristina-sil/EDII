@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1579622846 source:c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arv.h"
+	"menu.h"
+	"operacoes_cliente.h"
+
+1579623453 source:c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+	"arv.h"
+
+1579622680 c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\menu.h
+
+1579622846 c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\arv.h
+	"prof.h"
+
+1579622924 source:c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\arv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv.h"
+	"prof.h"
+
+1579622680 c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\prof.h
+	"arv.h"
+
+1579622846 source:c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\operacoes_cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"menu.h"
+	"arv.h"
+	"prof.h"
+
+1579621864 source:c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\prof.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"prof.h"
+
+1579622806 c:\users\jessi\documents\faculdade\iii periodo\edii\iii unidade\projedii2\operacoes_cliente.h
+
+1579622926 source:c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\arv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv.h"
+	"prof.h"
+
+1579622848 c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\arv.h
+	"prof.h"
+
+1579622682 c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\prof.h
+	"arv.h"
+
+1579622848 source:c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arv.h"
+	"menu.h"
+	"operacoes_cliente.h"
+
+1579622682 c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\menu.h
+
+1579622808 c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\operacoes_cliente.h
+
+1579623632 source:c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+	"arv.h"
+
+1579622848 source:c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\operacoes_cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"menu.h"
+	"arv.h"
+	"prof.h"
+
+1579624218 source:c:\users\anacr\onedrive\햞ea de trabalho\projeto\projedii2\prof.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"prof.h"
+
+1579622926 source:c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\arv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arv.h"
+	"prof.h"
+
+1579622848 c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\arv.h
+	"prof.h"
+
+1579622682 c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\prof.h
+	"arv.h"
+
+1579622848 source:c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"arv.h"
+	"menu.h"
+	"operacoes_cliente.h"
+
+1579622682 c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\menu.h
+
+1579622808 c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\operacoes_cliente.h
+
+1579623632 source:c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<ctype.h>
+	<string.h>
+	"menu.h"
+	"arv.h"
+
+1579622848 source:c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\operacoes_cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"menu.h"
+	"arv.h"
+	"prof.h"
+
+1579624218 source:c:\users\anacr\onedrive\documentos\ufersa\edii\projeto\projedii2\prof.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"prof.h"
+
